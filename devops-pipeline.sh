@@ -1,5 +1,3 @@
-#modify user access to submit script
-chmod u+x devops-pipeline.sh
 
 #active account 
 gcloud auth list
