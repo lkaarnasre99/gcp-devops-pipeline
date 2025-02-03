@@ -1,5 +1,5 @@
 # gcp-devops-pipeline
-# gcloud artifact repo creation - docker type
+# gcloud artifact repo creation - docker type, verification
 # authorization to repo
-# docker pull & push 
+# docker pull, tag & push 
 
